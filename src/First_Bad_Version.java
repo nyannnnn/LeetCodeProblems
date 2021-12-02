@@ -1,5 +1,7 @@
 class First_Bad_Version {
     public int firstBadVersion(int n) {
+    	
+    	//initializing starting and ending searching positions
         int left = 0;
 		int right = n;
 		
