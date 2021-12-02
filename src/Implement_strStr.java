@@ -1,4 +1,4 @@
-class Solution {
+class Implement_strStr {
     public int strStr(String haystack, String needle) {
         if (haystack == "" && needle == "") {
 			return 0;
